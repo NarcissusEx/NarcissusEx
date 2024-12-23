@@ -27,7 +27,7 @@
 <tr>
 <td>
 
-### Accepted papers
+### Accepted Papers
 
 |Title | Venue | Stars| Task|
 |--|--|--|--|
