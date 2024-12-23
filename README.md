@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/NarcissusEx">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&repeat=false&width=500&height=80&lines=Zixuan+Chen (陈子轩);Ph.D.+Student+%7C+CV+Researcher;3D+Reconstruction+%7C+Object+Detection%2FSegmentation+%7C+AIGC" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&repeat=false&color=051C24&width=500&height=80&lines=Zixuan+Chen (陈子轩);Ph.D.+Student+%7C+CV+Researcher;3D+Reconstruction+%7C+Object+Detection%2FSegmentation+%7C+AIGC" alt="Typing SVG"/>
 </a>
 
 <a href="https://narcissusex.github.io" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Homepage-gray?logo=Google%20chrome&label=Website&labelColor=darkorange&logoColor=white" alt="GitHub" style="max-width: 100%;"></a>
@@ -40,7 +40,7 @@ ___
 
 ### Under Reviews
 
-|Title | Venue | Stars| Description|
+|Title | Venue | Stars| Task|
 |--|--|--|--|
 |[`GuardSplat`](https://narcissusex.github.io/GuardSplat)| <a href="https://arxiv.org/abs/2411.19895" rel="nofollow"><img src="https://img.shields.io/badge/cs.CV-2411.19895-b31b1b?logo=arxiv&logoColor=red" alt="ArXiv" style="max-width: 100%;"></a>| <a href="https://github.com/NarcissusEx/GuardSplat"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/GuardSplat?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| 3DGS Watermarking|
 [`VividDreamer`](https://narcissusex.github.io/VividDreamer)|<a href="https://arxiv.org/abs/2406.14964" rel="nofollow"><img src="https://img.shields.io/badge/cs.CV-2406.14964-b31b1b?logo=arxiv&logoColor=red" alt="ArXiv" style="max-width: 100%;"></a>| <a href="https://github.com/NarcissusEx/VividDreamer"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/VividDreamer?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| Text-to-3D Generation|
