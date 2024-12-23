@@ -30,22 +30,22 @@
 
 ### Accepted papers
 
-|Title | Venue | Stars| Description|
+|Title | Venue | Stars| Task|
 |--|--|--|--|
-| [`HETMM`](https://github.com/NarcissusEx/HETMM) | *International Journal of Computer Vision* (**IJCV**), 2024 | <a href="https://github.com/NarcissusEx/HETMM"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/HETMM?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| **HETMM** is an efficient and training-free framework for industrial anomaly detection.|
-[`CuNeRF`](https://narcissusex.github.io/CuNeRF) | *IEEE/CVF International Conference on Computer Vision* (**ICCV**), 2023| <a href="https://github.com/NarcissusEx/CuNeRF"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/CuNeRF?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| **CuNeRF** is the first zero-shot framework for medical image arbitrary-scale super-resolution.|
-|[`ITSD`](https://github.com/moothes/ITSD-pytorch)| *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2020| <a href="https://github.com/moothes/ITSD-pytorch"><img alt="Stars" src="https://img.shields.io/github/stars/moothes/ITSD-pytorch?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| **ITSD** proposes a streamlined framework that addresses the inherent speed-quality trade-offs in salient object detection.|
-|[`CAL`](https://ieeexplore.ieee.org/abstract/document/9262030)| *IEEE Transactions on Image Processing* (**IEEE T-IP**), 2021| |**CAL** employs contour cues and hierarchical attention modules to locate the salient objects.|
-|[`ICE`](https://ieeexplore.ieee.org/abstract/document/8678803)| *IEEE Transactions on Circuits and Systems for Video Technology* (**IEEE T-CSVT**), 2020| |**ICE** integrates motion and appearance cues to segment the objects in video.
+| [`HETMM`](https://github.com/NarcissusEx/HETMM) | *IJCV*, 2024 | <a href="https://github.com/NarcissusEx/HETMM"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/HETMM?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| Industrial Anomaly Detection|
+[`CuNeRF`](https://narcissusex.github.io/CuNeRF) | *ICCV*, 2023| <a href="https://github.com/NarcissusEx/CuNeRF"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/CuNeRF?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| Medical Image Super Resolution|
+|[`ITSD`](https://github.com/moothes/ITSD-pytorch)| *CVPR*, 2020| <a href="https://github.com/moothes/ITSD-pytorch"><img alt="Stars" src="https://img.shields.io/github/stars/moothes/ITSD-pytorch?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| Salient Object Detection|
+|[`CAL`](https://ieeexplore.ieee.org/abstract/document/9262030)| *IEEE T-IP*, 2021| |Salient Object Detection|
+|[`ICE`](https://ieeexplore.ieee.org/abstract/document/8678803)| *IEEE T-CSVT*, 2020| |Video Object Segmentation|
 ___
 
 ### Under Reviews
 
 |Title | Venue | Stars| Description|
 |--|--|--|--|
-|[`GuardSplat`](https://narcissusex.github.io/GuardSplat)| <a href="https://arxiv.org/abs/2411.19895" rel="nofollow"><img src="https://img.shields.io/badge/cs.CV-2411.19895-b31b1b?logo=arxiv&logoColor=red" alt="ArXiv" style="max-width: 100%;"></a>| <a href="https://github.com/NarcissusEx/GuardSplat"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/GuardSplat?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| **GuardSplat** is an efficient watermarking framework to protect the copyright of 3DGS assets.|
-[`VividDreamer`](https://narcissusex.github.io/VividDreamer)|<a href="https://arxiv.org/abs/2406.14964" rel="nofollow"><img src="https://img.shields.io/badge/cs.CV-2406.14964-b31b1b?logo=arxiv&logoColor=red" alt="ArXiv" style="max-width: 100%;"></a>| <a href="https://github.com/NarcissusEx/VividDreamer"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/VividDreamer?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| **VividDreamer** is an efficient framework for high-fedelity text-to-3D generation.
-[`APRF`](https://arxiv.org/abs/2307.05270)| <a href="https://arxiv.org/abs/2307.05270" rel="nofollow"><img src="https://img.shields.io/badge/cs.CV-2307.05270-b31b1b?logo=arxiv&logoColor=red" alt="ArXiv" style="max-width: 100%;"></a>| <a href="https://github.com/NarcissusEx/VividDreamer"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/APRF?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| **APRF** aims to address the *aliasing errors* in Sparse-View Computed Tomography reconstruction.|
+|[`GuardSplat`](https://narcissusex.github.io/GuardSplat)| <a href="https://arxiv.org/abs/2411.19895" rel="nofollow"><img src="https://img.shields.io/badge/cs.CV-2411.19895-b31b1b?logo=arxiv&logoColor=red" alt="ArXiv" style="max-width: 100%;"></a>| <a href="https://github.com/NarcissusEx/GuardSplat"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/GuardSplat?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| 3DGS Watermarking|
+[`VividDreamer`](https://narcissusex.github.io/VividDreamer)|<a href="https://arxiv.org/abs/2406.14964" rel="nofollow"><img src="https://img.shields.io/badge/cs.CV-2406.14964-b31b1b?logo=arxiv&logoColor=red" alt="ArXiv" style="max-width: 100%;"></a>| <a href="https://github.com/NarcissusEx/VividDreamer"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/VividDreamer?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| Text-to-3D Generation|
+[`APRF`](https://arxiv.org/abs/2307.05270)| <a href="https://arxiv.org/abs/2307.05270" rel="nofollow"><img src="https://img.shields.io/badge/cs.CV-2307.05270-b31b1b?logo=arxiv&logoColor=red" alt="ArXiv" style="max-width: 100%;"></a>| <a href="https://github.com/NarcissusEx/VividDreamer"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/APRF?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| Sparse-View CT Reconstruction|
 ---
 
 
