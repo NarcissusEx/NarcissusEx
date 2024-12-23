@@ -8,7 +8,7 @@
 <a href="https://scholar.google.com/citations?user=aovhE2kAAAAJ" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Zixuan Chen-gray?logo=Google%20scholar&logoColor=white&label=Google Scholar&labelColor=blue" alt="Google Scholar" style="max-width: 100%;"></a>
 <a href="https://orcid.org/0000-0001-5100-793X" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Zixuan Chen-gray?logo=Orcid&labelColor=green&logoColor=white&label=ORCiD" alt="ORCiD" style="max-width: 100%;"></a>
 <a href="https://www.youtube.com/@NarcissusEx" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/NarcissusEx-gray?logo=Youtube&logoColor=white&label=YouTube&labelColor=FF0000" alt="YouTube" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in/narcissusex/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/NarcissusEx-gray?logo=LinkedIn&label=LinkedIn&labelColor=blue" alt="LinkedIn" style="max-width: 100%;"></a>
+<!-- <a href="https://www.linkedin.com/in/narcissusex/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/NarcissusEx-gray?logo=LinkedIn&label=LinkedIn&labelColor=blue" alt="LinkedIn" style="max-width: 100%;"></a> -->
 <br/> 
 <a href="https://github.com/NarcissusEx">
     <img src="https://github-stats-alpha.vercel.app/api?username=NarcissusEx&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
