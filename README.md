@@ -65,5 +65,5 @@ My Github Stats
 </details>
 
 <div align="center">
-<a href="https://clustrmaps.com/site/1c3ee" title="Visit Tracker"><img src="https://www.clustrmaps.com/map_v2.png?d=7T-BGdbQesmVnjnFuTjObl4Uz5G8ih6xMpt_07PBPrU&cl=ffffff" width="390" height="191"></a>
+<a href="https://clustrmaps.com/site/1c3ee" title="Visit Tracker"><img src="https://www.clustrmaps.com/map_v2.png?d=7T-BGdbQesmVnjnFuTjObl4Uz5G8ih6xMpt_07PBPrU&cl=ffffff"></a>
 </div>
