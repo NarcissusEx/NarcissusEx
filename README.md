@@ -33,8 +33,8 @@
 |--|--|--|--|
 | [`HETMM`](https://github.com/NarcissusEx/HETMM) | *IJCV*, 2024 | <a href="https://github.com/NarcissusEx/HETMM"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/HETMM?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| Industrial Anomaly Detection|
 [`CuNeRF`](https://narcissusex.github.io/CuNeRF) | *ICCV*, 2023| <a href="https://github.com/NarcissusEx/CuNeRF"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/CuNeRF?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| Medical Image Super Resolution|
-|[`ITSD`](https://github.com/moothes/ITSD-pytorch)| *CVPR*, 2020| <a href="https://github.com/moothes/ITSD-pytorch"><img alt="Stars" src="https://img.shields.io/github/stars/moothes/ITSD-pytorch?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| Salient Object Detection|
 |[`CAL`](https://ieeexplore.ieee.org/abstract/document/9262030)| *IEEE T-IP*, 2021| |Salient Object Detection|
+|[`ITSD`](https://github.com/moothes/ITSD-pytorch)| *CVPR*, 2020| <a href="https://github.com/moothes/ITSD-pytorch"><img alt="Stars" src="https://img.shields.io/github/stars/moothes/ITSD-pytorch?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| Salient Object Detection|
 |[`ICE`](https://ieeexplore.ieee.org/abstract/document/8678803)| *IEEE T-CSVT*, 2020| |Video Object Segmentation|
 ___
 
