@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/NarcissusEx">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&repeat=false&color=051C24&width=500&height=80&lines=Zixuan+Chen%20(陈子轩);Ph.D.+Student+%7C+CV+Researcher;3D+Reconstruction+%7C+Object+Detection%2FSegmentation+%7C+AIGC" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&repeat=false&color=051C24&width=500&height=80&lines=Zixuan+Chen%20(%E9%99%88%E5%AD%90%E8%BD%A9);Ph.D.+Student+%7C+CV+Researcher;3D+Reconstruction+%7C+Object+Detection%2FSegmentation+%7C+AIGC" alt="Typing SVG"/>
 </a>
 
 <a href="https://narcissusex.github.io" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Homepage-gray?logo=Google%20chrome&label=Website&labelColor=darkorange&logoColor=white" alt="GitHub" style="max-width: 100%;"></a>
