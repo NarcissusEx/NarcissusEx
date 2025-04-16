@@ -1,12 +1,12 @@
 <div align="center">
 <a href="https://github.com/NarcissusEx">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&repeat=false&color=051C24&width=500&height=80&lines=Zixuan+Chen (陈子轩);Ph.D.+Student+%7C+CV+Researcher;3D+Reconstruction+%7C+Object+Detection%2FSegmentation+%7C+AIGC" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&repeat=false&color=051C24&width=500&height=80&lines=Zixuan+Chen%20(陈子轩);Ph.D.+Student+%7C+CV+Researcher;3D+Reconstruction+%7C+Object+Detection%2FSegmentation+%7C+AIGC" alt="Typing SVG"/>
 </a>
 
 <a href="https://narcissusex.github.io" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Homepage-gray?logo=Google%20chrome&label=Website&labelColor=darkorange&logoColor=white" alt="GitHub" style="max-width: 100%;"></a>
 <a href="mailto:chenzx3@mail2.sysu.edu.cn" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/chenzx3-gray?logo=Gmail&label=Email&labelColor=darkgreen&logoColor=white" alt="Email" style="max-width: 100%;"></a>
-<a href="https://scholar.google.com/citations?user=aovhE2kAAAAJ" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Zixuan Chen-gray?logo=Google%20scholar&logoColor=white&label=Google Scholar&labelColor=blue" alt="Google Scholar" style="max-width: 100%;"></a>
-<a href="https://orcid.org/0000-0001-5100-793X" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Zixuan Chen-gray?logo=Orcid&labelColor=green&logoColor=white&label=ORCiD" alt="ORCiD" style="max-width: 100%;"></a>
+<a href="https://scholar.google.com/citations?user=aovhE2kAAAAJ" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Zixuan%20Chen-gray?logo=Google%20scholar&logoColor=white&label=Google%20Scholar&labelColor=blue" alt="Google Scholar" style="max-width: 100%;"></a>
+<a href="https://orcid.org/0000-0001-5100-793X" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Zixuan%20Chen-gray?logo=Orcid&labelColor=green&logoColor=white&label=ORCiD" alt="ORCiD" style="max-width: 100%;"></a>
 <a href="https://www.youtube.com/@NarcissusEx" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/NarcissusEx-gray?logo=Youtube&logoColor=white&label=YouTube&labelColor=FF0000" alt="YouTube" style="max-width: 100%;"></a>
 <!-- <a href="https://www.linkedin.com/in/narcissusex/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/NarcissusEx-gray?logo=LinkedIn&label=LinkedIn&labelColor=blue" alt="LinkedIn" style="max-width: 100%;"></a> -->
 <a href="https://github.com/NarcissusEx">
