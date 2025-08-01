@@ -14,9 +14,9 @@
 </a>
 </div>
  
-* 😸 Pursuing Ph.D. degree in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen)<img src='./images/sysu_logos_nobg.png' style='width: 6em;'> (中山大学计算机学院), supervised by [Prof. Xiaohua Xie (谢晓华教授)](https://cse.sysu.edu.cn/content/2478), and also co-supervised by [Prof. Jianhuang Lai (赖剑煌教授)](https://cse.sysu.edu.cn/content/2498).
+* 😸 I have received Ph.D. degree in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen)<img src='./images/sysu_logos_nobg.png' style='width: 6em;'> (中山大学计算机学院), supervised by [Prof. Xiaohua Xie (谢晓华教授)](https://cse.sysu.edu.cn/content/2478), and also co-supervised by [Prof. Jianhuang Lai (赖剑煌教授)](https://cse.sysu.edu.cn/content/2498).
 
-* 💻 Focusing on **AIGC**, **3D Reconstruction**, **Medical Image Processing** and **object detection/segmentation**.
+* 💻 Focusing on **3D/4D World Model**, including **reconstruction**, **understanding**, and **simulation**.
 
 * 📝 Authoring several papers at the top international CV journals and conferences, such as IJCV, IEEE T-IP, IEEE T-CSVT, ICCV, and CVPR.
 
@@ -31,6 +31,7 @@
 
 |Title | Venue | Stars| Task|
 |--|--|--|--|
+|[`SegmentDreamer`](https://arxiv.org/abs/2507.05256)| *ICCV*, 2025|<a href="https://github.com/zjhJOJO/SegmentDreamer"><img alt="Stars" src="https://img.shields.io/github/stars/zjhJOJO/SegmentDreamer?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>|Text-to-3D Generation|
 |[`GuardSplat`](https://narcissusex.github.io/GuardSplat)| *CVPR*, 2025| <a href="https://github.com/NarcissusEx/GuardSplat"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/GuardSplat?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| 3DGS Watermarking|
 | [`HETMM`](https://github.com/NarcissusEx/HETMM) | *IJCV*, 2024 | <a href="https://github.com/NarcissusEx/HETMM"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/HETMM?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| Industrial Anomaly Detection|
 [`CuNeRF`](https://narcissusex.github.io/CuNeRF) | *ICCV*, 2023| <a href="https://github.com/NarcissusEx/CuNeRF"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/CuNeRF?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| Medical Image Super Resolution|
