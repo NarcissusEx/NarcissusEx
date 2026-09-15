@@ -13,14 +13,16 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=NarcissusEx&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </div>
- 
-* 😸 I have received Ph.D. degree in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen)<img src='./images/sysu_logos_nobg.png' style='width: 6em;'> (中山大学计算机学院), supervised by [Prof. Xiaohua Xie (谢晓华教授)](https://cse.sysu.edu.cn/content/2478), and also co-supervised by [Prof. Jianhuang Lai (赖剑煌教授)](https://cse.sysu.edu.cn/content/2498).
 
-* 💻 Focusing on **3D/4D World Model**, including **reconstruction**, **understanding**, and **simulation**.
+* 😸 I am currently a Postdoctoral Research Fellow at the [School of Computer Science and Engineering](https://cse.sysu.edu.cn), [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen)<img src='./images/sysu_logos_nobg.png' style='width: 6em;'> (中山大学计算机学院). I received my Ph.D. degree from Sun Yat-sen University, supervised by [Prof. Xiaohua Xie (谢晓华教授)](https://cse.sysu.edu.cn/content/2478), and also co-supervised by [Prof. Jianhuang Lai (赖剑煌教授)](https://cse.sysu.edu.cn/content/2498).
 
-* 📝 Authoring several papers at the top international CV journals and conferences, such as IJCV, IEEE T-IP, IEEE T-CSVT, ICCV, and CVPR.
+* 💻 Focusing on 3D/4D scene reconstruction, generation, understanding, and simulation.
 
-* 📖 Serving as a reviewer of IEEE T-IP, IEEE T-CSVT, CVPR, ICCV, ECCV, and ICME.
+* 📝 Authoring 10+ papers in leading computer vision journals and conferences, including IJCV, IEEE TIP, IEEE TCSVT, ICCV, and CVPR.
+
+* 📖 Serving as a reviewer for IEEE TPAMI, IJCV, IEEE TIP, IEEE TVCG, CVPR, ICCV, ECCV, and NeurIPS.
+
+* 🎉 I was selected for the **2026 Hong Kong Scholars Program (Greater Bay Area Project)** and will conduct postdoctoral research at [The University of Hong Kong](https://www.hku.hk/en) <img src='./images/logo-hku.svg.webp' style='width: 6em;'> (香港大学), working with [Prof. Bo Huang (黄波教授)](https://geog.hku.hk/b-huang).
 
 ## 🖥️ Publications
 <table>
@@ -44,6 +46,7 @@ ___
 
 |Title | Venue | Stars| Task|
 |--|--|--|--|
+[`EvTrajGS`](https://arxiv.org/abs/2608.08585)|<a href="https://arxiv.org/abs/2608.08585" rel="nofollow"><img src="https://img.shields.io/badge/cs.CV-2608.08585-b31b1b?logo=arxiv&logoColor=red" alt="ArXiv" style="max-width: 100%;"></a>|  | 3D Gaussian Splatting from Unposed Event Streams|
 [`VividDreamer`](https://narcissusex.github.io/VividDreamer)|<a href="https://arxiv.org/abs/2406.14964" rel="nofollow"><img src="https://img.shields.io/badge/cs.CV-2406.14964-b31b1b?logo=arxiv&logoColor=red" alt="ArXiv" style="max-width: 100%;"></a>| <a href="https://github.com/NarcissusEx/VividDreamer"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/VividDreamer?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| Text-to-3D Generation|
 [`APRF`](https://arxiv.org/abs/2307.05270)| <a href="https://arxiv.org/abs/2307.05270" rel="nofollow"><img src="https://img.shields.io/badge/cs.CV-2307.05270-b31b1b?logo=arxiv&logoColor=red" alt="ArXiv" style="max-width: 100%;"></a>| <a href="https://github.com/NarcissusEx/APRF"><img alt="Stars" src="https://img.shields.io/github/stars/NarcissusEx/APRF?style=flat-square&labelColor=black&logo=Github&label=Stars"/></a>| Sparse-View CT Reconstruction|
 ---
@@ -65,6 +68,4 @@ My Github Stats
 
 </details>
 
-<div align="center">
-<a href="https://clustrmaps.com/site/1c3ee" title="Visit Tracker"><img src="https://www.clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=7T-BGdbQesmVnjnFuTjObl4Uz5G8ih6xMpt_07PBPrU"></a>
-</div>
+<div align="center"> <a href="https://mapmyvisitors.com/web/1c89u" title="Visit Tracker"> <img src="https://mapmyvisitors.com/map.png?d=M8qbSYEpBXX3xjfQa3LH9cd-j--lWwzbvyYRO8TUkwc&cl=ffffff"> </a> </div>
